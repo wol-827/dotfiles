@@ -1,0 +1,12 @@
+[user]
+	name = wol-827
+	email = wor.o.lig@gmail.com
+[core]
+	autoCRLF = false
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	cb = checkout -b 
+	df = diff
+	ss = stash save -u
